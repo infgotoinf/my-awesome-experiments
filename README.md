@@ -2,4 +2,4 @@
 
 ## Cool things
 
-I will be making here cool and simple, but useful things for myself and others, who find it also useful
+~~I will be making here cool and simple, but useful things for myself and others, who find it also useful~~
